@@ -19,6 +19,17 @@
             <artifactId>jetty-maven-plugin</artifactId>
             <version>11.0.9</version>
         </dependency>
+        <dependency>
+            <groupId>org.eclipse.jetty</groupId>
+            <artifactId>jetty-server</artifactId>
+            <version>11.0.9</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.eclipse.jetty</groupId>
+            <artifactId>jetty-webapp</artifactId>
+            <version>11.0.9</version>
+        </dependency>
     </dependencies>
 
 
